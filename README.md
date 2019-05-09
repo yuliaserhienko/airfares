@@ -1,5 +1,5 @@
 ## airfares
-> airlines price loader on aiohttp
+> airlines prices loader on aiohttp
 ### Integrations in progress
 - [ ] Ryanair
 ### Future integrations
